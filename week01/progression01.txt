@@ -1,0 +1,19 @@
+ข้อ 1 :
+
+- ได้ฝึกการสร้าง Array จาก String ด้วย spread operator
+
+- เข้าใจการใช้ for loop เพื่อเลือกตัวอักษรตาม index
+
+- ได้ใช้ .join() ในการรวมกลับมาเป็น string
+
+ข้อ 2 :
+
+- ได้ฝึกใช้ Array Destructuring เพื่อดึงค่าจาก Array
+
+- เข้าใจการใช้ Rest operator (...) ในการเก็บค่า
+
+ข้อ 3 :
+
+- ได้เรียนรู้การแปลง Array-like object → Array จริง ด้วย Array.from()
+
+- ฝึกใช้ callback function
