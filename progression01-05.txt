@@ -1,0 +1,40 @@
+1. พื้นฐานการจัดการ String และ Array
+
+ฝึกใช้ spread operator แปลง String → Array 
+
+ใช้ for loop เลือกตัวอักษรตาม index และ .join() รวมกลับเป็น string 
+
+เรียนรู้การแปลง Array-like object → Array จริง ด้วย Array.from() และ callback function
+
+
+2. การใช้ Array Methods พื้นฐาน
+
+map(): แปลงค่าทุกตัวใน array 
+
+filter(): คัดเลือกบางค่าที่ตรงเงื่อนไข 
+
+reduce(): รวมค่าทั้งหมดเป็นค่าเดียว เช่น ผลรวม 
+
+splice(): แก้ไขโครงสร้าง array โดยตรง 
+
+slice(): ตัด/แทนค่าใน array โดยไม่กระทบต้นฉบับ 
+
+find(): หาค่าตัวแรกที่ตรงเงื่อนไข เช่น หาสินค้าราคาเกิน 100 
+
+sort(): เรียงลำดับข้อมูล เช่น A → Z 
+
+
+3. การตรวจสอบและประมวลผลข้อความ
+
+ใช้ if ตรวจสอบ input ว่าเป็น string และไม่ใช่ค่าว่าง 
+
+ใช้ toLowerCase().split(" ") แปลงข้อความเป็นตัวพิมพ์เล็กและแยกเป็นคำ 
+
+เก็บจำนวนครั้งที่แต่ละคำปรากฏลงใน object 
+
+
+4. การทำงานกับ Object และ Destructuring
+
+ฝึก Object Destructuring เพื่อดึงค่าจาก object 
+
+เรียนรู้การ เปลี่ยนชื่อ key ตอน destructuring เช่น name → fullName 

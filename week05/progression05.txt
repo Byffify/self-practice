@@ -1,0 +1,2 @@
+- ได้เรียนรู้กับการทำโจทย์จาก objects และ array
+- การทำ Object Destructuring และการเปลี่ยนชื่อ key
